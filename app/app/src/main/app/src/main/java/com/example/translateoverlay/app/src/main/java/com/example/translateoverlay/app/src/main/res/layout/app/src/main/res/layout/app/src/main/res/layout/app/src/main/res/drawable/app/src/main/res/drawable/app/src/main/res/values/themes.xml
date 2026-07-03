@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.TranslateOverlay" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF5722</item>
+        <item name="colorPrimaryDark">#E64A19</item>
+        <item name="colorAccent">#FF5722</item>
+    </style>
+</resources>
